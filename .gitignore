@@ -1,0 +1,16 @@
+# Compiled class files
+*.class
+
+# Eclipse / IntelliJ
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# Visual Paradigm cache
+*.bak
+
+# OS
+.DS_Store
+Thumbs.db
