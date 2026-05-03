@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"model","l":"Assignment"},{"p":"ui","l":"Main"},{"p":"model","l":"Participant"},{"p":"model","l":"Raffle"},{"p":"model","l":"RaffleManager"},{"p":"model","l":"RaffleStatus"},{"p":"model","l":"Restriction"}];updateSearchResults();
